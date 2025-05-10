@@ -150,7 +150,7 @@ Material:
     - _UVFreeLocal: 1
     - _UVFreeRim: 0
     - _UVFreeVertexColor: 0
-    - _UVScale: 4.5
+    - _UVScale: 1
     - _UVSec: 0
     - _UseUV: 0
     - _UseUV_X: 0
